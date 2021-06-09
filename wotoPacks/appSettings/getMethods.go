@@ -1,0 +1,76 @@
+// Rudeus Telegram Bot Project
+// Copyright (C) 2021 wotoTeam, ALiwoto
+// This file is subject to the terms and conditions defined in
+// file 'LICENSE', which is part of the source code.
+
+package appSettings
+
+import (
+	"context"
+
+	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
+	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
+	"github.com/gotd/td/tg"
+)
+
+func (_s *AppSettings) GetAPI() *tgbotapi.BotAPI {
+	return _s.botAPI
+}
+
+func (_s *AppSettings) IsGlobal() bool {
+	return _s.isGlobal
+}
+
+func (_s *AppSettings) GetObt() string {
+	return _s.tObt
+}
+
+// GetIndex will give you the index of the current child.
+// please notice that this value is zero-based.
+func (_s *AppSettings) GetIndex() int {
+	return _s.index
+}
+
+// GetTotalIndex will give you the total index of childs.
+// please notice that this value is NOT zero-based.
+func (_s *AppSettings) GetTotalIndex() int {
+	return _s.totalIndex
+}
+
+func (_s *AppSettings) GetWClient() interfaces.WClient {
+	return _s.wClient
+}
+
+func (_s *AppSettings) GetSudoList() interfaces.SudoList {
+	return _s.sudoList
+}
+
+func (_s *AppSettings) IsSudo(id int64) bool {
+	if _s.sudoList == nil {
+		return id == wotoValues.SUDO
+	}
+
+	if _s.sudoList == nil {
+		return false
+	}
+
+	return _s.sudoList.Contains(&id)
+}
+
+func (_s *AppSettings) IsMainSudo(id int64) bool {
+	if _s.mainSudo == wotoValues.BaseIndex {
+		return id == wotoValues.SUDO
+	}
+
+	if _s.mainSudo != id {
+		return id == wotoValues.SUDO
+	} else {
+		return true
+	}
+
+}
+
+func (_s *AppSettings) GetGClient() (*tg.Client, *context.Context) {
+	return _s.gClient, _s.gCtx
+}

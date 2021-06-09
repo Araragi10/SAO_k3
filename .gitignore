@@ -1,0 +1,7 @@
+.env
+.docker_build/
+bin/
+/.idea
+*.woto.file.md
+*.woto.file
+rudeus01

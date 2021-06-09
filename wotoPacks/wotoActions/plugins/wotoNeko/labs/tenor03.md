@@ -1,0 +1,7 @@
+### Request:
+
+curl 'https://discord.com/api/v9/integrations/tenor/search?q=hentai' -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0' -H 'Accept: */*' -H 'Accept-Language: en-US' --compressed -H 'Authorization: NzA2ODA1MDYwODEzNzE3NTg0.YFfE1g.WTNRaRN65-PQa7tsAsH_lWOk2Yo' -H 'X-Super-Properties: eyJvcyI6IkxpbnV4IiwiYnJvd3NlciI6IkZpcmVmb3giLCJkZXZpY2UiOiIiLCJzeXN0ZW1fbG9jYWxlIjoiZW4tVVMiLCJicm93c2VyX3VzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBVYnVudHU7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OC4wIiwiYnJvd3Nlcl92ZXJzaW9uIjoiODguMCIsIm9zX3ZlcnNpb24iOiIiLCJyZWZlcnJlciI6Imh0dHBzOi8vbWFpbC5nb29nbGUuY29tL21haWwvdS8wLyIsInJlZmVycmluZ19kb21haW4iOiJtYWlsLmdvb2dsZS5jb20iLCJzZWFyY2hfZW5naW5lIjoiZ29vZ2xlIiwicmVmZXJyZXJfY3VycmVudCI6IiIsInJlZmVycmluZ19kb21haW5fY3VycmVudCI6IiIsInJlbGVhc2VfY2hhbm5lbCI6InN0YWJsZSIsImNsaWVudF9idWlsZF9udW1iZXIiOjg2OTE3LCJjbGllbnRfZXZlbnRfc291cmNlIjpudWxsfQ==' -H 'Alt-Used: discord.com' -H 'Connection: keep-alive' -H 'Referer: https://discord.com/channels/@me/708003453187784713' -H 'Cookie: _ga=GA1.2.1419067850.1620465867; optimizelyEndUserId=362bbf685784; _parsely_visitor={%22id%22:%22pid=7ad704204f5e3c8bc7096718de88c095%22%2C%22session_count%22:1%2C%22last_session_ts%22:1620800467920}; __dcfduid=c4279b91ea464d36b781f9310f8039bb; rebrand_bucket=5f814c83ffd2bdb630777c3204ef3a8a; locale=en-US'
+
+### Response:
+
+[]

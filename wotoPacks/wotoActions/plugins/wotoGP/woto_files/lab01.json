@@ -1,0 +1,108 @@
+{
+    "_": "Chat",
+    "id": -1001455542061,
+    "type": "channel",
+    "is_verified": false,
+    "is_restricted": false,
+    "is_creator": false,
+    "is_scam": false,
+    "is_fake": false,
+    "title": "Intellivoid",
+    "username": "Intellivoid",
+    "photo": {
+        "_": "ChatPhoto",
+        "small_file_id": "AQADAQAT4e3tSBcAAwIAA9MgmdQW____t9oAAp3XX5UlQwACHgQ",
+        "small_photo_unique_id": "AQAD4e3tSBcAAyVDAAI",
+        "big_file_id": "AQADAQAT4e3tSBcAAwMAA9MgmdQW____t9oAAp3XX5UnQwACHgQ",
+        "big_photo_unique_id": "AQAD4e3tSBcAAydDAAI"
+    },
+    "description": "Important updates and notices from Intellivoid\n\nDiscussions: @IntellivoidDiscussions\n\nhttps://Intellivoid.net\nhttps://twitter.com/Intellivoid\nhttps://Instagram.com/Intellivoid\n\nDonate: https://paypal.me/Intellivoid",
+    "dc_id": 1,
+    "pinned_message": {
+        "_": "Message",
+        "message_id": 578,
+        "sender_chat": {
+            "_": "Chat",
+            "id": -1001455542061,
+            "type": "channel",
+            "is_verified": false,
+            "is_restricted": false,
+            "is_creator": false,
+            "is_scam": false,
+            "is_fake": false,
+            "title": "Intellivoid",
+            "username": "Intellivoid",
+            "photo": {
+                "_": "ChatPhoto",
+                "small_file_id": "AQADAQAT4e3tSBcAAwIAA9MgmdQW____t9oAAp3XX5UlQwACHgQ",
+                "small_photo_unique_id": "AQAD4e3tSBcAAyVDAAI",
+                "big_file_id": "AQADAQAT4e3tSBcAAwMAA9MgmdQW____t9oAAp3XX5UnQwACHgQ",
+                "big_photo_unique_id": "AQAD4e3tSBcAAydDAAI"
+            },
+            "dc_id": 1
+        },
+        "date": "2021-05-20 18:57:55",
+        "chat": {
+            "_": "Chat",
+            "id": -1001455542061,
+            "type": "channel",
+            "is_verified": false,
+            "is_restricted": false,
+            "is_creator": false,
+            "is_scam": false,
+            "is_fake": false,
+            "title": "Intellivoid",
+            "username": "Intellivoid",
+            "photo": {
+                "_": "ChatPhoto",
+                "small_file_id": "AQADAQAT4e3tSBcAAwIAA9MgmdQW____t9oAAp3XX5UlQwACHgQ",
+                "small_photo_unique_id": "AQAD4e3tSBcAAyVDAAI",
+                "big_file_id": "AQADAQAT4e3tSBcAAwMAA9MgmdQW____t9oAAp3XX5UnQwACHgQ",
+                "big_photo_unique_id": "AQAD4e3tSBcAAydDAAI"
+            },
+            "dc_id": 1
+        },
+        "mentioned": false,
+        "scheduled": false,
+        "from_scheduled": false,
+        "text": "🎙 Podcast starting in 2 minutes",
+        "views": 745,
+        "outgoing": false
+    },
+    "can_set_sticker_set": false,
+    "members_count": 2988,
+    "linked_chat": {
+        "_": "Chat",
+        "id": -1001292488090,
+        "type": "supergroup",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_creator": false,
+        "is_scam": false,
+        "is_fake": false,
+        "title": "Intellivoid Discussions",
+        "username": "IntellivoidDiscussions",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQATq_2ESRcAAwIAA2YiUd4W____t6yoA-xJQbpSfAEAAR4E",
+            "small_photo_unique_id": "AQADq_2ESRcAA1J8AQAB",
+            "big_file_id": "AQADAQATq_2ESRcAAwMAA2YiUd4W____t6yoA-xJQbpUfAEAAR4E",
+            "big_photo_unique_id": "AQADq_2ESRcAA1R8AQAB"
+        },
+        "dc_id": 1,
+        "permissions": {
+            "_": "ChatPermissions",
+            "can_send_messages": true,
+            "can_send_media_messages": true,
+            "can_send_stickers": false,
+            "can_send_animations": false,
+            "can_send_games": false,
+            "can_use_inline_bots": false,
+            "can_add_web_page_previews": false,
+            "can_send_polls": false,
+            "can_change_info": false,
+            "can_invite_users": false,
+            "can_pin_messages": false
+        }
+    }
+}

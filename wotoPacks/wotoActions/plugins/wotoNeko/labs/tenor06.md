@@ -1,0 +1,5 @@
+NAME	KEY
+funimohyo_app	P33DS6QTX4KR
+funimohyo app	UJ8UQ12DVL5E
+
+pub: LIVDSRZULELA
