@@ -1,6 +1,6 @@
 package appSettings
 
-import "github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
+import "github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
 
 func (_s *AppSettings) GetPatClient() interfaces.WClient {
 	return _s.patClient

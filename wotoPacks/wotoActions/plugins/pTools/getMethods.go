@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 //---------------------------------------------------------

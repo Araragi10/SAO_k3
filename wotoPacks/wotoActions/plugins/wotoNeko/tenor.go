@@ -14,8 +14,8 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoMD"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoMD"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

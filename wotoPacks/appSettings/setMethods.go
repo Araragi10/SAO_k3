@@ -9,9 +9,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	wa "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/common"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	wa "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/common"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	tgbot "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/gotd/td/tg"
 )

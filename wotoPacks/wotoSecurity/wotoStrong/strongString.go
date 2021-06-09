@@ -6,7 +6,7 @@
 package wotoStrong
 
 import (
-	tfc "github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
+	tfc "github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
 )
 
 const (

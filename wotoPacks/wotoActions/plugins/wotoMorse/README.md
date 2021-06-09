@@ -42,7 +42,7 @@
 
 ## <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/soulgem-kyoko.gif" width="40px"> Support and Contributions
 
-If you think you have found a bug or have a feature request, feel free to use our [issue tracker](https://github.com/aliwoto/rudeus01/issues). Before opening a new issue, please search to see if your problem has already been reported or not.  Try to be as detailed as possible in your issue reports. <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/roxy_nod01.png" width="20px">
+If you think you have found a bug or have a feature request, feel free to use our [issue tracker](https://github.com/Araragi10/SAO_k3/issues). Before opening a new issue, please search to see if your problem has already been reported or not.  Try to be as detailed as possible in your issue reports. <img src="https://raw.githubusercontent.com/aliwoto/aliwoto/main/resources/roxy_nod01.png" width="20px">
 
 <hr/>
 

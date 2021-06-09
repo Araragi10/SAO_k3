@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	tf "github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	tf "github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 //---------------------------------------------------------

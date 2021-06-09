@@ -5,7 +5,7 @@
 
 package wotoStrong
 
-import wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+import wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 
 // _setValue will set the bytes value of the StrongString.
 func (_s *StrongString) _setValue(str string) {

@@ -20,12 +20,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	wa "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/common"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoDB/dbTypes"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	wa "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/common"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoDB/dbTypes"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

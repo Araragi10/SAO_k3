@@ -8,7 +8,7 @@ package wotoStrings
 import (
 	"strings"
 
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 func Split(_s string, separator ...string) []string {

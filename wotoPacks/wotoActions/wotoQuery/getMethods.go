@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"log"
 
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 func (q *QueryBase) Exists() bool {

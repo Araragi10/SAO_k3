@@ -6,13 +6,13 @@
 package botCommands
 
 import (
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/pTools"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoGP"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoMorse"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoNeko"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoPat"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoTranslate"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoUD"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/pTools"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoGP"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoMorse"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoNeko"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoPat"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoTranslate"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoUD"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

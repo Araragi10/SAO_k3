@@ -10,10 +10,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	wa "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/common"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	wa "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/common"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

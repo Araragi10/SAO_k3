@@ -9,8 +9,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/pTools"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/pTools"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

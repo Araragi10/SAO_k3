@@ -5,7 +5,7 @@
 
 package wotoUD
 
-import wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+import wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 
 //---------------------------------------------------------
 

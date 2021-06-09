@@ -3,12 +3,12 @@ package wotoTranslate
 import (
 	"log"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/pTools"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoTranslate/wotoLang"
-	ws "github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues/tgMessages"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/pTools"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoTranslate/wotoLang"
+	ws "github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues/tgMessages"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

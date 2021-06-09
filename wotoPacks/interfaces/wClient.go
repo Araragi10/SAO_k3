@@ -6,8 +6,8 @@
 package interfaces
 
 import (
-	wa "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/common"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoDB/dbTypes"
+	wa "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/common"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoDB/dbTypes"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

@@ -8,8 +8,8 @@ package wotoActions
 import (
 	"log"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )

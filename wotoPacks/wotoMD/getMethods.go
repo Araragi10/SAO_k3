@@ -8,7 +8,7 @@ package wotoMD
 import (
 	"reflect"
 
-	infc "github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
+	infc "github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
 )
 
 func (_m *wotoMarkDown) Append(v infc.WMarkDown) infc.WMarkDown {

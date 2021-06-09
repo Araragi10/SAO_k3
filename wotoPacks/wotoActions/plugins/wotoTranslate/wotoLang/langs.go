@@ -1,7 +1,7 @@
 package wotoLang
 
 import (
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 type Language string

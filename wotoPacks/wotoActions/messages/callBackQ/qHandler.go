@@ -8,9 +8,9 @@ package callBackQ
 import (
 	"log"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoUD"
-	wq "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/wotoQuery"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoUD"
+	wq "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/wotoQuery"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

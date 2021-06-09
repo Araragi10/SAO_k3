@@ -53,7 +53,7 @@ ENTRYPOINT [ "/rudeus01" ]
 
 #FROM golang:1.16
 
-#RUN git clone https://github.com/ALiwoto/Rudeus01.git
+#RUN git clone https://github.com/Araragi10/SAO_k3.git
 
 #WORKDIR Rudeus01
 

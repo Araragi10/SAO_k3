@@ -8,8 +8,8 @@ package tgMessages
 import (
 	"strings"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues/tgMessages/tgForbidden"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues/tgMessages/tgForbidden"
 )
 
 func GetTgError(err error) interfaces.TgError {

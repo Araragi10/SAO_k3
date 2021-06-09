@@ -1,6 +1,6 @@
 package wotoGP
 
-import wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+import wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 
 const (
 	pingMessage    = "--Pinged in " + wv.FORMAT_VALUE + " >-<"

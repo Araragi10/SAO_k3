@@ -8,7 +8,7 @@ package botCommands
 import (
 	"sync"
 
-	wn "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoNeko"
+	wn "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoNeko"
 )
 
 // non-sudo commands

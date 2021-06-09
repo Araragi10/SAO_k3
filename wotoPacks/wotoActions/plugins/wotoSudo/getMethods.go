@@ -3,8 +3,8 @@ package wotoSudo
 import (
 	"time"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

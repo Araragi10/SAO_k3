@@ -7,11 +7,11 @@ import (
 	"log"
 	"net/http"
 
-	ws "github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrong"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	ws "github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrong"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
-//import "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoTranslate/wotoLang"
+//import "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoTranslate/wotoLang"
 
 func DetectLanguage(text string) *Lang {
 	m := map[string]string{

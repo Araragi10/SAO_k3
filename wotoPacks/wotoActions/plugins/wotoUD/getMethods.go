@@ -8,8 +8,8 @@ package wotoUD
 import (
 	"fmt"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoMD"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoMD"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 //---------------------------------------------------------

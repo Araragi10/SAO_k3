@@ -6,10 +6,10 @@
 package botCommands
 
 import (
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/pTools"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoPat"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoSudo"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoTest"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/pTools"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoPat"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoSudo"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoTest"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

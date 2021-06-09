@@ -8,12 +8,12 @@ package wotoNeko
 import (
 	"log"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/pTools"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues/tgMessages"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/pTools"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues/tgMessages"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

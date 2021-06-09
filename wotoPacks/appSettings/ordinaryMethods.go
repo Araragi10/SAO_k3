@@ -8,7 +8,7 @@ package appSettings
 import (
 	"log"
 
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

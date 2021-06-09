@@ -6,8 +6,8 @@
 package textMessage
 
 import (
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	bc "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/messages/textMessage/botCommands"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	bc "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/messages/textMessage/botCommands"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

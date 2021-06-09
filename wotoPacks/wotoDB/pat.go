@@ -10,7 +10,7 @@ import (
 	"log"
 	"reflect"
 
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

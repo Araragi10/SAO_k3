@@ -9,9 +9,9 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	wa "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/common"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	wa "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/common"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"go.mongodb.org/mongo-driver/bson"
 )

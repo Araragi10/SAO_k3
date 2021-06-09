@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"strings"
 
-	tf "github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	tf "github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 // GetValue will give you the real value of this StrongString.

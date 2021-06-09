@@ -6,8 +6,8 @@
 package wotoSudo
 
 import (
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoValues/tgMessages/tgConst"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoValues/tgMessages/tgConst"
 )
 
 // the messages for wotoSudo plugin.

@@ -1,4 +1,4 @@
-module github.com/ALiwoto/rudeus01
+module github.com/Araragi10/SAO_k3
 
 go 1.16
 

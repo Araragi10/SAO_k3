@@ -5,7 +5,7 @@
 
 package wotoDB
 
-import "github.com/ALiwoto/rudeus01/wotoPacks/wotoDB/dbTypes"
+import "github.com/Araragi10/SAO_k3/wotoPacks/wotoDB/dbTypes"
 
 // databases' name used in the app.
 const (

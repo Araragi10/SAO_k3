@@ -14,8 +14,8 @@ import (
 	"math/rand"
 	"net/http"
 
-	ws "github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	ws "github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 )
 
 // GetRandomSfw will give you a random sfw nekobase.

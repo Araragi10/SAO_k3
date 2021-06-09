@@ -6,11 +6,11 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/appSettings"
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoMD"
-	ws "github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	"github.com/Araragi10/SAO_k3/wotoPacks/appSettings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoMD"
+	ws "github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	tgbot "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/gotd/td/tg"
 )

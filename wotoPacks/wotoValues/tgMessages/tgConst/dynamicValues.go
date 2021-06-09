@@ -8,8 +8,8 @@ package tgConst
 import (
 	"strings"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoMD"
-	ws "github.com/ALiwoto/rudeus01/wotoPacks/wotoSecurity/wotoStrings"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoMD"
+	ws "github.com/Araragi10/SAO_k3/wotoPacks/wotoSecurity/wotoStrings"
 	tg "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 

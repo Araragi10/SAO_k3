@@ -8,7 +8,7 @@ package interfaces
 import (
 	"context"
 
-	wa "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/common"
+	wa "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/common"
 	tgbot "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/gotd/td/tg"
 )

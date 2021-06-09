@@ -9,7 +9,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ALiwoto/rudeus01/wotoPacks/interfaces"
+	"github.com/Araragi10/SAO_k3/wotoPacks/interfaces"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/gotd/td/tg"
 )

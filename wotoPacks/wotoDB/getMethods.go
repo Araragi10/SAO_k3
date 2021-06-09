@@ -8,10 +8,10 @@ package wotoDB
 import (
 	"errors"
 
-	wa "github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/common"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoActions/plugins/wotoSudo"
-	"github.com/ALiwoto/rudeus01/wotoPacks/wotoDB/dbTypes"
-	wv "github.com/ALiwoto/rudeus01/wotoPacks/wotoValues"
+	wa "github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/common"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoActions/plugins/wotoSudo"
+	"github.com/Araragi10/SAO_k3/wotoPacks/wotoDB/dbTypes"
+	wv "github.com/Araragi10/SAO_k3/wotoPacks/wotoValues"
 	"go.mongodb.org/mongo-driver/bson"
 )
 
